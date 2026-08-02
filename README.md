@@ -129,12 +129,6 @@ Clone the repository.
 git clone <repository-url>
 ```
 
-Install the required packages.
-
-```bash
-pip install -r requirements.txt
-```
-
 Launch Jupyter Notebook.
 
 ```bash
